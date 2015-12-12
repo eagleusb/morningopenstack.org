@@ -1,11 +1,15 @@
 ---
 title: "CentOS 7 et QEMU 2.x pour chauffer votre CPU"
 slug: centos7-et-qemu2-openstack
-date: 12-12-2015
+date: 13-12-2015 00:40
+published: true
 taxonomy:
     tag: [centos, qemu]
+metadata:
+    description: "Your page description goes here"
+    keywords: "HTML, CSS, XML, JavaScript"
+    author: "Leslie-Alexandre DENIS"
 image: qemu.jpg
-published: true
 ---
 #Pourquoi les gens confondent qemu et qemu-kvm ?
 

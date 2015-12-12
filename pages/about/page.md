@@ -1,14 +1,15 @@
 ---
-title: ABOUT THE AUTHOR
+title: Kezako MorningOpenStack ?
+slug: a-propos-morning-openstack
+published: true
 ---
 
-![Authorl](author.jpg)
+![Kezako](about.jpg)
 
 
-The Notepad theme for Grav is a direct port of the [Notepad Theme for Jekyll](http://hmfaysal.github.io/Notepad/) designed by [Hossain Mohd Faysal](http://hmfaysal.github.io/).
+MorningOpenStack est né d'une volonté de répandre la connaissance autour de l'outil, transmettre de l'information et aussi déconner. La grande famille des OpenStacker est surtout anglophone et voyant la ML openstack-fr complètement vide, je me suis dis que c'était l'heure.
 
-You can **download** the theme here: [github.com/getgrav/grav-theme-notepad](https://github.com/getgrav/grav-theme-notepad) but it's strongly advised to download the complete [Download Notepad Skeleton](http://getgrav.org/downloads/skeletons#extras).
+Il est prévu d'ouvrir aux contributions les pages de ce site, chacun pouvant proposer via GitHub une page donc un article qui sera publié ici. Bien entendu l'article devra être d'une super qualität et traitant du sujet, le **cloud**.
 
-You can find out more info about customizing your Grav theme, as well as basic Grav usage documentation at [learn.getgrav.org](http://learn.getgrav.org)
-
-You can find the source code for Grav at [github.com/getgrav/grav](https://github.com/getgrav/grav)
+Bonne lecture,
+LAD

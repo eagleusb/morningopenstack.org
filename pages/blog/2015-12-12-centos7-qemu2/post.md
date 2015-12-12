@@ -10,7 +10,7 @@ published: true
 #Pourquoi les gens confondent qemu et qemu-kvm ?
 
 Il est vrai, qu'avant la version 1.3 de QEMU un fork nommé qemu-kvm était développé en parallèle afin d'exploiter au maximum la puissance du module KVM.  
-Cependant, et oui, depuis la 1.3 les deux projets ont fusionnés.  
+Cependant, et oui, depuis la 1.3 les deux projets ont fusionné.  
 
 >  QEMU 1.3
 >  - as of the 1.3 release all qemu-kvm features have been merged into upstream QEMU

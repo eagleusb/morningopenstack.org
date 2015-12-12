@@ -1,7 +1,7 @@
 ---
 title: "CentOS 7 et QEMU 2.x pour chauffer votre CPU"
 slug: centos7-et-qemu2-openstack
-date: 12/12/2015
+date: 12-12-2015
 taxonomy:
     tag: [centos, qemu]
 image: qemu.jpg

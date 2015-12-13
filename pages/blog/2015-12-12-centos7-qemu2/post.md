@@ -29,7 +29,7 @@ Bien souvent, QEMU est installé depuis les dépôts officiels par défaut et ma
 
 Bien caché, CentOS propose désormais un dépôt orienté virtualisation maintenu par le groupe [Virt SIG](https://wiki.centos.org/SpecialInterestGroup/Virtualization), composé de gars d'oVirt notamment.  
 
->>>>> Le dépôt contient à ce jour *qemu-kvm-ev-2.1.2-23.el7_1.8.1*, par ici : [virt](http://mirror.centos.org/centos/7.1.1503/virt/x86_64/kvm-common/)  
+Le dépôt contient à ce jour *qemu-kvm-ev-2.1.2-23.el7_1.8.1*, par ici : [virt](http://mirror.centos.org/centos/7.1.1503/virt/x86_64/kvm-common/)  
 
 #<i class="fa fa-fighter-jet"></i> Finalité
 

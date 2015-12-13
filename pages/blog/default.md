@@ -2,7 +2,7 @@
 title: "Morning OpenStack : dans la peau d'un OpenStack'er"
 
 sitemap:
-    changefreq: monthly
+    changefreq: weekly
     priority: 1.03
 
 content:

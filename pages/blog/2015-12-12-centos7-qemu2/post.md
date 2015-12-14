@@ -17,7 +17,7 @@ Il est vrai, qu'avant la version **1.3** de QEMU un fork nommé qemu-kvm était 
 Cependant, et oui, depuis la **1.3** les deux projets ont fusionné.  
 
 >  QEMU 1.3
->  - as of the 1.3 release all qemu-kvm features have been merged into upstream QEMU
+>  - as of the 1.3 release all qemu-kvm features have been merged into upstream QEMU  
 
 Donc pour les conservateurs, inutile de rester sur un traditionnel qemu-kvm, le code upstream qemu intègre bien l'ensemble.  
 

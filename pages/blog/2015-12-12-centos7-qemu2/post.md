@@ -4,10 +4,10 @@ slug: centos7-et-qemu2-openstack
 date: 13-12-2015 00:40
 published: true
 taxonomy:
-  tag: [centos, qemu]
+  tag: [centos, qemu, featured]
 metadata:
-  description: "Your page description goes here"
-  keywords: "HTML, CSS, XML, JavaScript"
+  description: "Comment mettre à jour QEMU 2.x sous CentOS"
+  keywords: "OpenStack, CentOS, QEMU, libvirt, KVM"
   author: "Leslie-Alexandre DENIS"
 image: qemu.jpg
 ---

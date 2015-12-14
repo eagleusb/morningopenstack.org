@@ -4,11 +4,11 @@ slug: centos7-et-qemu2-openstack
 date: 13-12-2015 00:40
 published: true
 taxonomy:
-    tag: [centos, qemu]
+  tag: [centos, qemu]
 metadata:
-    description: "Your page description goes here"
-    keywords: "HTML, CSS, XML, JavaScript"
-    author: "Leslie-Alexandre DENIS"
+  description: "Your page description goes here"
+  keywords: "HTML, CSS, XML, JavaScript"
+  author: "Leslie-Alexandre DENIS"
 image: qemu.jpg
 ---
 #<i class="fi-blind"></i> Pourquoi les gens confondent qemu et qemu-kvm ?

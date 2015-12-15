@@ -38,7 +38,7 @@ Etre bien à jour avec ce dernier c'est profiter des backports de code upstream.
 
 Le talk sur YouTube ici :  
 
-<p><iframe width="560" height="315 src="https://www.youtube.com/embed/bOeH-bjTSLw" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/bOeH-bjTSLw" frameborder="0" allowfullscreen></iframe></p>
 
 Sur ce, bonnes mises à jour.  
 LAD

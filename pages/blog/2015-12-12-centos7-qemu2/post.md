@@ -36,7 +36,9 @@ Le dépôt contient à ce jour *qemu-kvm-ev-2.1.2-23.el7_1.8.1*, par ici : [virt
 Gardez bien en tête que **QEMU** est la base de votre cloud, si jamais vous en faites hein, et qu'il est nécessaire d'y prêter beaucoup d'attention.  
 Etre bien à jour avec ce dernier c'est profiter des backports de code upstream. A ce sujet, RedHat a présenté comment ils contribuent via RHEV aux projets upstream et comment ils gèrent QEMU/KVM, c'est fascinant.  
 
-Le talk sur YouTube ici : [Red Hat Enterprise Virtualization Hypervisor: KVM now & in the future](https://youtu.be/bOeH-bjTSLw)  
+Le talk sur YouTube ici :  
+
+<iframe class="fitvids" src="https://www.youtube.com/embed/bOeH-bjTSLw" frameborder="0" allowfullscreen></iframe>
 
 Sur ce, bonnes mises à jour.  
 LAD

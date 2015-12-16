@@ -38,7 +38,9 @@ Etre bien à jour avec ce dernier c'est profiter des backports de code upstream.
 
 Le talk sur YouTube ici :  
 
-<p class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/bOeH-bjTSLw" frameborder="0" allowfullscreen></iframe></p>
+><i class="fa fa-video-camera"></i> *[Red Hat Enterprise Virtualization Hypervisor: KVM now & in the future - 2015 Red Hat Summit](https://youtu.be/bOeH-bjTSLw)*
+
+<p class="video"><iframe width="560" height="315" src="https://www.youtube.com/embed/bOeH-bjTSLw" frameborder="0" allowfullscreen></iframe></p>  
 
 Sur ce, bonnes mises à jour.  
 LAD

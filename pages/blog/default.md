@@ -1,5 +1,5 @@
 ---
-title: "Morning OpenStack : dans la peau d'un OpenStack'er"
+title: "Le quotidien des ingenieurs devOps et cloud OpenStack, et ouai rien que ca"
 
 sitemap:
     changefreq: weekly

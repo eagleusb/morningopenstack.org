@@ -1,6 +1,5 @@
 ---
-title: Pas de panique, les catégories
-description: "An archive of posts sorted by categories."
+title: "Les articles du cloud tout bien ranges et sans Puppet"
 slug: les-archives-morning-openstack
 published: true
 ---

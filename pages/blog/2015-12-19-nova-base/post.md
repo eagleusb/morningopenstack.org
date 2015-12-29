@@ -60,7 +60,7 @@ Dans *nova.conf* vous devez jouer sur :
 Avec la configuration par défaut, le cachemanager passera toutes les 2400sec pour opérer un gros rm sur la gueule des images orphelines.  
 Faites gaff quand même à une chose, si par mégarde une image de base utilisée est supprimée, les instances s'y référant seront bonnes à jeter. Les QCOW2 (*sparse*) des instances ne contiennent que la différence avec la base de l'image.  
 
-La feature a été évoqué dans ce blueprint [blueprint](https://wiki.openstack.org/wiki/Nova-image-cache-management) et le code, pour libvirt, est ici [imagecache.py](https://github.com/openstack/nova/blob/master/nova/virt/libvirt/imagecache.py).
+La feature a été évoqué dans ce [blueprint](https://wiki.openstack.org/wiki/Nova-image-cache-management) et le code, pour libvirt, est ici [imagecache.py](https://github.com/openstack/nova/blob/master/nova/virt/libvirt/imagecache.py).
 
 #<i class="fa fa-coffee"></i> Tout pareil mais à la mano
 

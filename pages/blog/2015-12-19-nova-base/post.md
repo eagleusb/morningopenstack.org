@@ -13,8 +13,8 @@ image: base.jpg
 ---
 #<i class="fa fa-cubes"></i> Mais c'est quoi \_base dans Nova ?
 
-Avant toute chose, clarifions le rôle du répertoire \_base sur votre hyperviseur. Lorsque vous instanciez une VM, le service **nova-compute** va initier une connexion HTTP vers Glance et récupérer l'image que vous avez spécifiez au *nova boot*.  
-C'est là que rentre en jeu $instances_path/\_base ! L'image sera mise en cache pour pouvoir simplement être réutilisée ultérieurement par d'autre instanciation sur le même HV. Ca évite bien des transferts HTTP, cool non ? :)
+Avant toute chose, clarifions le rôle du répertoire \_base sur votre hyperviseur. Lorsque vous instanciez une VM, le service **nova-compute** va initier une connexion HTTP vers Glance et récupérer l'image que vous avez spécifié au *nova boot*.  
+C'est là que rentre en jeu $instances_path/\_base ! L'image sera mise en cache pour pouvoir simplement être réutilisée ultérieurement par d'autres instanciations sur le même HV. Ca évite bien des transferts HTTP, cool non ? :)
 
 Vous pouvez naviguer dans $instances_path/\_base et retrouver les UUID des images Glance. Petit conseil, pour profiter au maximum du **cache manager**, essayez d'utiliser au maximum les mêmes images, ça évitera d'avoir un max d'exemplaires !
 

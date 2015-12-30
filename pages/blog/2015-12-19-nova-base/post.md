@@ -13,8 +13,8 @@ image: base.jpg
 ---
 #<i class="fa fa-cubes"></i> Mais c'est quoi \_base dans Nova ?
 
-Avant toute chose, clarifions le rôle du répertoire \_base sur votre hyperviseur. Lorsque vous instanciez une VM, le service **nova-compute** va initier une connexion HTTP vers Glance et récupérer l'image que vous avez spécifiez au *nova boot*.  
-C'est là que rentre en jeu $instances_path/\_base ! L'image sera mise en cache pour pouvoir simplement être réutilisée ultérieurement par d'autre instanciation sur le même HV. Ca évite bien des transferts HTTP, cool non ? :)
+Avant toute chose, clarifions le rôle du répertoire \_base sur votre hyperviseur. Lorsque vous instanciez une VM, le service **nova-compute** va initier une connexion HTTP vers Glance et récupérer l'image que vous avez spécifié au *nova boot*.  
+C'est là que rentre en jeu $instances_path/\_base ! L'image sera mise en cache pour pouvoir simplement être réutilisée ultérieurement par d'autres instanciations sur le même HV. Ca évite bien des transferts HTTP, cool non ? :)
 
 Vous pouvez naviguer dans $instances_path/\_base et retrouver les UUID des images Glance. Petit conseil, pour profiter au maximum du **cache manager**, essayez d'utiliser au maximum les mêmes images, ça évitera d'avoir un max d'exemplaires !
 
@@ -60,7 +60,7 @@ Dans *nova.conf* vous devez jouer sur :
 Avec la configuration par défaut, le cachemanager passera toutes les 2400sec pour opérer un gros rm sur la gueule des images orphelines.  
 Faites gaff quand même à une chose, si par mégarde une image de base utilisée est supprimée, les instances s'y référant seront bonnes à jeter. Les QCOW2 (*sparse*) des instances ne contiennent que la différence avec la base de l'image.  
 
-La feature a été évoqué dans ce blueprint [blueprint](https://wiki.openstack.org/wiki/Nova-image-cache-management) et le code, pour libvirt, est ici [imagecache.py](https://github.com/openstack/nova/blob/master/nova/virt/libvirt/imagecache.py).
+La feature a été évoqué dans ce [blueprint](https://wiki.openstack.org/wiki/Nova-image-cache-management) et le code, pour libvirt, est ici [imagecache.py](https://github.com/openstack/nova/blob/master/nova/virt/libvirt/imagecache.py).
 
 #<i class="fa fa-coffee"></i> Tout pareil mais à la mano
 

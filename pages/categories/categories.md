@@ -1,5 +1,5 @@
 ---
-title: "Les articles du cloud tout bien ranges et sans Puppet"
-slug: les-archives-morning-openstack
+title: 'Les articles, tout bien rangés'
+slug: 'les-archives-morning-openstack'
 published: true
 ---

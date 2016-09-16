@@ -1,5 +1,5 @@
 ---
-title: "Le quotidien des ingenieurs devOps et cloud OpenStack, et ouai rien que ca"
+title: 'Conseil et expertise sur OpenStack et la virtualisation sous Linux'
 
 sitemap:
     changefreq: weekly

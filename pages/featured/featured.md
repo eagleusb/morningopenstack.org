@@ -1,5 +1,5 @@
 ---
-title: Les posts (de) stars, les beaux gosses des devOps
-slug: le-meilleur-morning-openstack
+title: 'Les meilleurs posts'
+slug: 'le-meilleur-morning-openstack'
 published: true
 ---
